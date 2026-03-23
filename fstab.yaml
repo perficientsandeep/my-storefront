@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/perficientsandeep/my-storefront
+    type: markup
+
+folders:
+  /products/: /products/default
