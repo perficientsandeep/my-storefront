@@ -1,0 +1,46 @@
+
+.popular-items-wrapper {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.popular-items-title {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.popular-items-scroller {
+    display: flex;
+    gap: 24px;
+    overflow-x: auto;
+    padding: 10px 0;
+    scroll-behavior: smooth;
+}
+
+.popular-item-card {
+    min-width: 220px;
+    max-width: 220px;
+    text-align: left;
+}
+
+.popular-item-rating {
+    margin-top: 6px;
+    color: #f0c040;
+}
+
+.popular-item-reviews {
+    color: gray;
+    font-size: 13px;
+    margin-left: 4px;
+}
+
+.popular-item-price {
+    margin-top: 6px;
+    font-size: 16px;
+}
+
+.popular-item-title {
+    margin-top: 6px;
+    color: #0a4fa2;
+    text-decoration: none;
+}
